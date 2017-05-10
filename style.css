@@ -1,0 +1,102 @@
+button{
+    position: fixed;
+    left: 0%;
+    top: 95%; 
+    overflow:hidden;
+    width: 40px;
+	height: 40px;
+	color: black;
+}
+#forward2{
+    left: 5%;
+}
+#messagebut{
+    position: fixed;
+    left: 0%;
+    top: 20%; 
+    width: 40px;
+	height: 40px;
+}
+#message2but{
+    position: fixed;
+    left: 0%;
+    top: 20%; 
+    width: 40px;
+	height: 40px;
+}
+#background1{
+    position: absolute;
+    top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
+    height : 450px ;
+    border : 10px #BA9A96;
+    border-style: double;
+    overflow:hidden;
+}
+#background2{
+    position: absolute;
+    top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
+    height : 450px ;
+    border : 10px #51738E;
+    border-style: double;
+    overflow:hidden;
+}
+
+p{ 
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+    color: pink;
+    position: fixed;
+    overflow:hidden;
+}
+#brave {
+    left: 0%;
+    top: 60%;
+}
+#valor {
+    left: 0%;
+    color: #51738E;
+    top: 60%;
+}
+#love {
+    left: 0%;
+    top: 30%;
+}
+#heaven {
+    color:#51738E;
+    left: 0%;
+    top: 30%;
+}
+#music {
+    left: 5%;
+    top: 20%;
+}
+#JT {
+    left: 5%;
+    top: 20%;
+}
+#info {
+    left: 10%;
+    top: 20%;
+}
+#info2 {
+    left: 10%;
+    top: 20%;
+}
+#coldtext {
+    color: #51738E;
+}
+#taketext {
+    color: pink;
+}
+#MacRed {
+        background: url(Macbethred.png) no-repeat; 
+        background-size: cover;
+
+    }
+    
+#alertlitt {
+    left: 5%;    
+    }
+    }
